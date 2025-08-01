@@ -1,6 +1,7 @@
 # 🎓 Grade Evaluator Web Application
 
-A simple web application built with Flask that allows users to input a numerical grade and receive a corresponding letter grade (A+, A-, B+, etc.) or an "Invalid input" message if the grade is outside the 1-100 range. The app features a clean, responsive user interface styled with CSS.
+
+A simple Web Application built with Flask that allows users to input a numerical grade and receive a corresponding letter grade  or an "Invalid input" message if the grade is outside the 1-100 range. The app features a clean, responsive user interface styled with CSS.
 
 ---
 
@@ -17,10 +18,14 @@ A simple web application built with Flask that allows users to input a numerical
 * **User-Friendly Interface:** Simple form for grade submission.
 * **Responsive Design:** Styled with CSS for a visually appealing experience.
 
+---
+
 ## 🚀 Technologies Used
 
 * **Backend:** Python (Flask)
 * **Frontend:** HTML, CSS
+
+---
 
 ## 📁 Project Structure
 
@@ -37,6 +42,8 @@ Grade/
 └── style.css      \# CSS stylesheet for styling
 
 ````
+
+---
 
 ## ⚙️ Setup and Installation
 
@@ -75,6 +82,9 @@ Follow these steps to get the Grade Evaluator running on your local machine.
             source venv/bin/activate
             ```
 
+---
+
+
 ## 📋 Requirements
 
 Alternatively, you can create a `requirements.txt` file in your project root with the following content:
@@ -88,6 +98,10 @@ Then install dependencies using:
 ```bash
 pip install -r requirements.txt
 ```
+
+
+---
+
 
 ## ▶️ How to Run the Application
 
@@ -104,12 +118,20 @@ pip install -r requirements.txt
 
 4.  To stop the server, press `Ctrl + C` in your terminal.
 
+
+---
+
+
 ## 📝 Usage
 
 1.  Open the application in your web browser.
 2.  Enter a numerical grade between 1 and 100 in the input field.
 3.  Click the "Check Grade" button.
 4.  The corresponding letter grade or an error message will be displayed below the form.
+
+
+---
+
 
 ## ❓ Troubleshooting
 
@@ -142,13 +164,20 @@ pip install -r requirements.txt
 If you have any questions, issues, or suggestions, feel free to reach out. I'd love to hear from you\!
 
   * **GitHub Issues:** [Open an Issue](https://github.com/urjiiko1/GradeEvaluator/issues) 💬
-  * **LinkedIn Profile:** [`Gemachis Tesfaye`](https://www.linkedin.com/in/gemachis-tesfaye-137196318) 👤
-  * **Email:** `gemachistesfaye36@gmail.com` ✉️
-  * **Telegram:** [`@urjiiko1`](https://t.me/urjiiko1) 📱
+  * **LinkedIn     :**     [`Gemachis Tesfaye`](https://www.linkedin.com/in/gemachis-tesfaye-137196318) 👤
+  * **Email        :**     [`gemachistesfaye36@gmail.com`](mailto:gemachistesfaye36@gmail.com) ✉️
+  * **Telegram     :**    [`@urjiiko1`](https://t.me/urjiiko1) 📱
+
+
+---
+
 
 ## 🤝 Contributing
 
 Feel free to fork this repository, make improvements and submit pull requests. Your contributions are welcome\!
+
+
+---
 
 ## 📅 Date of Completion
 
