@@ -7,7 +7,7 @@ A simple Web Application built with Flask that allows users to input a numerical
 
 ## 🌐 Live Demo
 
-**[Live Demo](https://grade-evaluator.onrender.com) 🚀**
+## [Click Here](https://grade-evaluator.onrender.com) 🚀
 
 
 ---
