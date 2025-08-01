@@ -7,7 +7,7 @@ A simple Web Application built with Flask that allows users to input a numerical
 
 ## 🌐 Live Demo
 
-**https://grade-evaluator.onrender.com 🚀**
+**[Live Demo](https://grade-evaluator.onrender.com) 🚀**
 
 
 ---
@@ -136,7 +136,7 @@ pip install -r requirements.txt
 ## 🤝 Contributing
 
 Feel free to fork this repository, make improvements and submit pull requests. 
-Your contributions are welcome\!
+Your contributions are welcome!
 
 
 
@@ -147,9 +147,9 @@ Your contributions are welcome\!
 If you have any questions, issues, or suggestions, feel free to reach out. I'd love to hear from you\!
 
  * **[Open an Issue](https://github.com/urjiiko1/GradeEvaluator/issues) 💬**
-* **[`Gemachis Tesfaye`](https://www.linkedin.com/in/gemachis-tesfaye-137196318) 👤**
-* **[`gemachistesfaye36@gmail.com`](mailto:gemachistesfaye36@gmail.com) ✉️**
-* **[`@urjiiko1`](https://t.me/urjiiko1) 📱**
+* **[LinkedIn](https://www.linkedin.com/in/gemachis-tesfaye-137196318) 👤**
+* **[Email](mailto:gemachistesfaye36@gmail.com) ✉️**
+* **[Telegram](https://t.me/urjiiko1) 📱**
 
 
 
@@ -158,4 +158,8 @@ If you have any questions, issues, or suggestions, feel free to reach out. I'd l
 ## 📅 Date of Completion
 
 This project was completed on: August 1, 2025 🗓️
+
+## 
+
+**By: Gemachis Tesfaye [https://github.com/urjiiko1] ✨**
 
