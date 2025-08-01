@@ -135,8 +135,8 @@ pip install -r requirements.txt
 
 ## 🤝 Contributing
 
-Feel free to fork this repository, make improvements and submit pull requests. 
-Your contributions are welcome!
+Feel free to fork this repository, make improvements and submit pull requests.
+  Your contributions are welcome!
 
 
 
