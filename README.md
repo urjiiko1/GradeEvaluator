@@ -130,6 +130,14 @@ pip install -r requirements.txt
 4.  The corresponding letter grade or an error message will be displayed below the form.
 
 
+---
+
+
+## 🤝 Contributing
+
+Feel free to fork this repository, make improvements and submit pull requests. 
+Your contributions are welcome\!
+
 
 
 -----
@@ -138,18 +146,11 @@ pip install -r requirements.txt
 
 If you have any questions, issues, or suggestions, feel free to reach out. I'd love to hear from you\!
 
-  * **GitHub Issues:** [Open an Issue](https://github.com/urjiiko1/GradeEvaluator/issues) 💬
-  * **LinkedIn     :**     [`Gemachis Tesfaye`](https://www.linkedin.com/in/gemachis-tesfaye-137196318) 👤
-  * **Email        :**     [`Gemachis Tesfaye`](mailto:gemachistesfaye36@gmail.com) ✉️
-  * **Telegram     :**    [`Gemachis Tesfaye`](https://t.me/urjiiko1) 📱
+ * **[Open an Issue](https://github.com/urjiiko1/GradeEvaluator/issues) 💬**
+* **[`Gemachis Tesfaye`](https://www.linkedin.com/in/gemachis-tesfaye-137196318) 👤**
+* **[`gemachistesfaye36@gmail.com`](mailto:gemachistesfaye36@gmail.com) ✉️**
+* **[`@urjiiko1`](https://t.me/urjiiko1) 📱**
 
-
----
-
-
-## 🤝 Contributing
-
-Feel free to fork this repository, make improvements and submit pull requests. Your contributions are welcome\!
 
 
 ---
