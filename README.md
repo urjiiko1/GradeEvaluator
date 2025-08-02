@@ -34,12 +34,13 @@ The project follows a standard Flask application layout:
 ```
 
 Grade/
-├── grade.py           \# Main Flask application logic
-├── README.md          \# This documentation file
+├── grade.py           Main Flask application logic
+├── README.md          Project documentation
 ├── templates/
-│   └── index.html     \# HTML template for the web page
+│   └── index.html     HTML template for the web page
 └── static/
-└── style.css      \# CSS stylesheet for styling
+    └── style.css      CSS stylesheet for styling
+
 
 ````
 
