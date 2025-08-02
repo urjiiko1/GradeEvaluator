@@ -7,7 +7,7 @@ A simple Web Application built with Flask that allows users to input a numerical
 
 ## 🌐 Live Demo
 
-**https://grade-evaluator.onrender.com 🚀**
+## [Click Here](https://grade-evaluator.onrender.com) 🚀
 
 
 ---
@@ -133,29 +133,12 @@ pip install -r requirements.txt
 ---
 
 
-## ❓ Troubleshooting
+## 🤝 Contributing
 
-  * **"Flask app not found" or "ModuleNotFoundError: No module named 'flask'":**
+Feel free to fork this repository, make improvements and submit pull requests.
+  Your contributions are welcome!
 
-      * Ensure Flask is installed by running:
-        ```bash
-        pip install Flask
-        ```
-      * If you are using a virtual environment, make sure it is activated before running `python grade.py`.
 
-  * **"UnicodeEncodeError: 'charmap' codec can't encode..." when emojis appear:**
-
-      * This is a common Windows console issue. To fix it, set the environment variable `PYTHONIOENCODING` to `utf-8`.
-      * Search online for "set PYTHONIOENCODING Windows" for detailed instructions.
-
-  * **"index.html not found" or "template not found":**
-
-      * Verify your project structure. The `index.html` file must be inside a folder named `templates` which is located in the same directory as `grade.py`.
-
-  * **Application doesn't load in browser (e.g., "This site can't be reached"):**
-
-      * Ensure the Flask server is running in your terminal (`python grade.py` should be active and showing `Running on http://127.0.0.1:5000/`).
-      * Check your firewall settings if you suspect port 5000 is blocked.
 
 -----
 
@@ -163,18 +146,11 @@ pip install -r requirements.txt
 
 If you have any questions, issues, or suggestions, feel free to reach out. I'd love to hear from you\!
 
-  * **GitHub Issues:** [Open an Issue](https://github.com/urjiiko1/GradeEvaluator/issues) 💬
-  * **LinkedIn     :**     [`Gemachis Tesfaye`](https://www.linkedin.com/in/gemachis-tesfaye-137196318) 👤
-  * **Email        :**     [`gemachistesfaye36@gmail.com`](mailto:gemachistesfaye36@gmail.com) ✉️
-  * **Telegram     :**    [`@urjiiko1`](https://t.me/urjiiko1) 📱
+ * **[Open an Issue](https://github.com/urjiiko1/GradeEvaluator/issues) 💬**
+* **[LinkedIn](https://www.linkedin.com/in/gemachis-tesfaye-137196318) 👤**
+* **[Email](mailto:gemachistesfaye36@gmail.com) ✉️**
+* **[Telegram](https://t.me/urjiiko1) 📱**
 
-
----
-
-
-## 🤝 Contributing
-
-Feel free to fork this repository, make improvements and submit pull requests. Your contributions are welcome\!
 
 
 ---
@@ -182,4 +158,8 @@ Feel free to fork this repository, make improvements and submit pull requests. Y
 ## 📅 Date of Completion
 
 This project was completed on: August 1, 2025 🗓️
+
+## 
+
+**By: Gemachis Tesfaye [https://github.com/urjiiko1] ✨**
 
