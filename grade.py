@@ -7,29 +7,30 @@ def grade(grd):
         return "Invalid input ⚠️ Grade must be between 1 and 100"
 
     if grd >= 90:
-        message = "A+"
+        return "A+ (Excellent 🌟)"
     elif grd >= 85:
-        message = "A"
+        return "A (Very Good ✅)"
     elif grd >= 80:
-        message = "A-"
+        return "A- (Good ✅)"
     elif grd >= 75:
-        message = "B+"
+        return "B+ (Above Average 👍)"
     elif grd >= 70:
-        message = "B"
+        return "B (Average 🙂)"
     elif grd >= 65:
-        message = "B-"
+        return "B- (Satisfactory 🙂)"
     elif grd >= 60:
-        message = "C+"
+        return "C+ (Pass 👌)"
     elif grd >= 55:
-        message = "C"
+        return "C (Pass 👌)"
     elif grd >= 50:
-        message = "C+"
+        return "C- (Just Passed ⚠️)"
     elif grd >= 40:
-        message = "D"
+        return "D (Needs Improvement ⚠️)"
     else:
+        return "F (Failed ❌)"
+
         message = "F⚡"
     
-    return message
 
 @app.route("/", methods=["GET", "POST"])
 def home():
@@ -37,7 +38,7 @@ def home():
     if request.method == "POST":
         print("POST request received")
         try:
-            user_grade = int(request.form["grade"])
+            user_grade = float(request.form["grade"])
             print(f"Received grade: {user_grade}")
             result = grade(user_grade)
         except (ValueError, KeyError):
